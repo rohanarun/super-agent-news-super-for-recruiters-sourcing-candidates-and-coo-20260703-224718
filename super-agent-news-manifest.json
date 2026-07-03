@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[creao.ai](https://creao.ai/for/recruiters)",
+    "[hermify.io](https://www.hermify.io/en/blog/ai-agent-for-recruiters)",
+    "[shrm.org](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTkdtSG5WMEh2UzEybUhLNHZPdkhic01lUW41bjFDMGpYT0JEQVFsVWhpdkNRR2pHSXdvUEZUWUtnOEhpeWFxdnNwcW52YWNibkdxdTdwODRXWWhkZnhsbW1CdU9XT2p1QXNwSFQtXzFqaFJjVnlLZlVBM2ZNZ3E2MEhMbVl1S0s2SFZ4b3ZrLU4xWldobHhQN0RNVjZBSGtRUVlXSkdZMVBUOUdROTFvbDBlSzA?oc=5)",
+    "[blog.google](https://blog.google)",
+    "[memeburn.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4?oc=5)",
+    "[citybiz.co](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQT3J5cnd4ZEJuZkxtdG0xYUlMVkswQ21Tak05MExlc0xwdzBDU1dJOXdlb2NuOEUwZEJYRTlOdnN6Y2p1MXpmd25TVWQycDJLUXZya09lS1NpdW1wazhESHhwYjZ3cG9vcGoxbHJlTlB5NUI5dzF3THFHR3hCOHVKQWFUMzdVbFZ0UjRWQUowTVBqdVdJbE1QZVdoeTJkNEZ2Y3V3dUxvV1pvZWZyYVNvWGNZdzVDSnNOTmZzNmtxSGJNVlN5M1dYbmdfS0h4SWQ2Y1JGZQ?oc=5)"
+  ],
+  "design_plan": "rng=42; AIDA: Attention(hero recruiting pain), Interest(agent runs sourcing+coordination), Desire(computer-use cache savings), Action(CTA); hero max-width=1120px ensures 2\u20133 lines; bento density verified via grid-auto-flow:dense; competitors label sweep included; button contrast black/white pills checked.",
+  "generated_at": "2026-07-03T22:47:25.396755+00:00",
+  "headline": "Super for recruiters sourcing candidates and coordinating interviews",
+  "site_brief": {
+    "audience": "recruiters sourcing candidates and coordinating interviews",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "recruiters sourcing candidates and coordinating interviews AI assistant",
+      "recruiters sourcing candidates and coordinating interviews personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-recruiters-sourcing-candidates-and-coordinating",
+    "title": "Super for recruiters sourcing candidates and coordinating interviews"
+  },
+  "summary": "A conversion\u2011focused niche landing page that shows how Super\u2019s personal AI agents operate real recruiting tools, reuse a computer\u2011use cache, and cut repeated sourcing and interview\u2011coordination work. Built with the same visual architecture as Super\u2019s comparison pages and grounded in current recruiting and agentic\u2011AI market evidence."
+}
